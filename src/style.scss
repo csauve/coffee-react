@@ -1,4 +1,6 @@
-//@import './uilib/'
+// the top-level stylesheet, which imports dependencies as needed
+
+@import './uilib/uilib.scss';
 
 body {
   background-color: silver;

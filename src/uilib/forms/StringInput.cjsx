@@ -2,4 +2,9 @@ React = require "react"
 
 module.exports = React.createClass
   render: ->
-    <p>I am an input</p>
+    <div className="field-row">
+      { if @props.label
+        <label>{@props.label}</label>
+      }
+      <input className="string-input" type="text" valueLink={@props.valueLink}/>
+    </div>

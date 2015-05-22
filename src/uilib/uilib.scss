@@ -1,0 +1,7 @@
+// this file contains styles only needed by `uilib`
+
+@import './forms/StringInput.scss';
+
+input, label {
+  display: block;
+}

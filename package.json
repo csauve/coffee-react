@@ -12,7 +12,9 @@
     "coffee-reactify": "^3.0.0",
     "gulp": "^3.8.11",
     "gulp-browserify": "^0.5.1",
+    "gulp-install": "^0.4.0",
     "gulp-sass": "^2.0.1",
+    "gulp-serve": "^1.0.0",
     "gulp-uglify": "^1.2.0"
   }
 }

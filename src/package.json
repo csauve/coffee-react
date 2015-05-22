@@ -2,7 +2,7 @@
   "name": "uilib",
   "version": "1.0.0",
   "author": "csauve",
-	"license": "MIT",
+  "license": "MIT",
   "dependencies": {
     "react": "^0.13.3"
   }
